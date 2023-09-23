@@ -3,7 +3,7 @@ This is my github page created as part of obtaining my "Professional Certificate
 It showcases the coding assignments completed during this course.
 
 ## My PacMen Factory Exercise Repo
-<a href="http://jodytburch.github.io/pacmen-factory"> PacMen Factory </a>
+<a href="http://jodytburch.github.io/pacmen-exercise"> PacMen Factory </a>
 
 ## My Eyes Exercise Repo
 <a href="http://jodytburch.github.io/eyes-exercise"> Eyes </a>
