@@ -8,7 +8,7 @@ It showcases the coding assignments completed during this course.
 ## My Eyes Exercise Repo
 <a href="http://jodytburch.github.io/eyes-exercise"> Eyes </a>
 
-## My Real Time Bus Tracking Exercise Repo
-Real Time Bus Tracking Exercise (link coming soon)
+## My Real Time Bus Tracker Exercise Repo
+<a href="http://jodytburch.github.io/real-time-bus-tracker"> Real Time Bus Tracker Exercise </a>
 
 
