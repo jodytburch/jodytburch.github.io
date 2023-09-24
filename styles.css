@@ -67,20 +67,23 @@ body {
     background-color: gray;
 }
 
-a:link {
-    color: rgb(54, 27, 84);
+/* Links Styling */
+.grid-container a:link {
+    color: rgb(7, 69, 163);
 }
  
-/* visited link */
-a:visited {
-    color: rgb(81, 69, 174);
-
+.grid-container a:visited {
+    color: rgb(11, 80, 11);
 } 
   
-/* mouse over link */
-a:hover {
+.grid-container a:hover {
   color: blue;
-
 }
 
+.grid-container a:active {
+    color: rgb(202, 18, 18);
+}
 
+.grid-container hr.black-solid {
+    border-top: 1px, solid, black;
+}
