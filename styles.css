@@ -1,14 +1,11 @@
 .grid-container {
     display: grid;
     grid-template-columns: repeat(4,auto);
-   /* grid-template-rows: repeat(auto, 1fr, 1fr, 1fr, 1fr, auto); */
     grid-template-rows: repeat(6, auto);
     grid-gap: 8px;
-    /*align-items: stretch;*/
     height: 90vh; 
     padding: 5px;
 }
-
 
 .page-header {
     grid-column: 1 / 5;
@@ -87,3 +84,34 @@ body {
 .grid-container hr.black-solid {
     border-top: 1px, solid, black;
 }
+
+/*  Styles for Project Portfolio page */
+.grid-projects-container {
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+    grid-template-rows: repeat(3,auto);
+    grid-gap: 8px;
+    height: 90vh; 
+    padding: 5px;
+}
+
+.project-header {
+grid-column: 1 / 4;
+grid-row: 1;
+}
+
+.project-footer {
+grid-column: 1 / 4;
+grid-row: 3;
+}
+
+.project-card {
+    padding: 12%;
+    margin: 10px;
+
+}
+
+.license-attribute {
+    font-size: x-small;
+}
+
